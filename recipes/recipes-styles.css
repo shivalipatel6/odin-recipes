@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 80px;
+}
+img{
+    height:auto;
+    width: 600px;
+}
+p{
+    font-size: 40px;
+}
+
+h2{
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 60px; 
+}
+
+li{
+    font-size: 30px; 
+}
